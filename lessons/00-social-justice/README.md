@@ -24,12 +24,12 @@ In this section, we're going to think critically about the myriad parts of our o
 In this section, we'll first look at the concept of privilege and how it operates both individually and systemically. Second, we'll look at institutional racism in tech and beyond.
 
 ## Resources
-1. [Notes: Readings and Movie](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/notes/Part2Readings.md)
-2. [Assignment: short answer reflection](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/assignments/Part2Reflection.md)
+1. [Notes: Readings and Movie](notes/Part2Readings.md)
+2. [Assignment: short answer reflection](assignments/Part2Reflection.md)
 
 ## Part III: Addressing Microaggresions and Creating Equitable Community
 In this section, we'll look at how the inequities we've explored can impact our communities and interpersonal interactions - and what we can do about it. We'll define "microaggresions" and "equity."
 
 ## Resources
-1. [Notes: Readings and Video](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/notes/Part3ReadingsAndVideo.md)
-2. [Assignment: short answer reflection](https://github.com/Ada-Developers-Academy/jump-start/blob/master/lessons/00-social-justice/assignments/Part3Reflection.md)
+1. [Notes: Readings and Video](notes/Part3ReadingsAndVideo.md)
+2. [Assignment: short answer reflection](assignments/Part3Reflection.md)
