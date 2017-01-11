@@ -15,7 +15,7 @@ The following is a list of common shortcut commands. If you don't know these, lo
 | CTRL+Y           | Reverts changes forward one step                | Command+Y
 | **CTRL+F**       | Finds items in a document                | Command+F
 | ALT+TAB          | Switches between currently open windows                | Command+Tab / Command+Shift+Tab
-| ALT+F4           | Closes current window                | Command+Shift+Option+Escape
+| ALT+F4           | Closes current window                | ~~Command+Shift+Option+Escape~~ Command+Q
 | F1               | Brings up help menu of current application                | Command+Shift+/
 
 
