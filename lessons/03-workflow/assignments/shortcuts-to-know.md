@@ -5,18 +5,18 @@ The following is a list of common shortcut commands. If you don't know these, lo
 
 | Windows Shortcut | What the command does | Mac Shortcut
 |------------------|-----------------------|-------------
-| CTRL+C           | &nbsp;                | &nbsp;
-| CTRL+V           | &nbsp;                | &nbsp;
-| CTRL+X           | &nbsp;                | &nbsp;
-| CTRL+S           | &nbsp;                | &nbsp;
-| CTRL+P           | &nbsp;                | &nbsp;
-| CTRL+A           | &nbsp;                | &nbsp;
-| CTRL+Z           | &nbsp;                | &nbsp;
-| CTRL+Y           | &nbsp;                | &nbsp;
-| **CTRL+F**       | &nbsp;                | &nbsp;
-| ALT+TAB          | &nbsp;                | &nbsp;
-| ALT+F4           | &nbsp;                | &nbsp;
-| F1               | &nbsp;                | &nbsp;
+| CTRL+C           | Copies highlighted text                | Command+C
+| CTRL+V           | Pastes text from clipboard                | Command+V
+| CTRL+X           | Deletes and copies highlighted text                | Command+X
+| CTRL+S           | Saves a file                | Command+S
+| CTRL+P           | Prints current document                | Command+P
+| CTRL+A           | Selects all items in a document                | Command+A
+| CTRL+Z           | Reverts changes back one step                | Command+Z
+| CTRL+Y           | Reverts changes forward one step                | Command+Y
+| **CTRL+F**       | Finds items in a document                | Command+F
+| ALT+TAB          | Switches between currently open windows                | Command+Tab / Command+Shift+Tab
+| ALT+F4           | Closes current window                | Command+Shift+Option+Escape
+| F1               | Brings up help menu of current application                | Command+Shift+/
 
 
 **When you are complete with all of these problems, you can check your answers against the [answer key](../assignments/shortcuts-answers.md).**
